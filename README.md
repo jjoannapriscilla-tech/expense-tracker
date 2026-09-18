@@ -66,14 +66,3 @@ Food : ₹100
 Entertainment : ₹200
 ```
 
-## Learning Outcomes
-
-Through this project, I practiced:
-
-* Python lists
-* `if-elif-else` conditions
-* `for` loops
-* Nested loops
-* User input
-* Basic data handling
-* Git and GitHub workflow
